@@ -1,0 +1,6 @@
+freertos_blinky.c:49:13:prvSetupHardware	8	static
+freertos_blinky.c:61:13:vLEDTask1	24	static
+freertos_blinky.c:82:13:vLEDTask2	24	static
+freertos_blinky.c:110:13:vLEDTask3	24	static
+freertos_blinky.c:140:14:vUARTTask	24	static
+freertos_blinky.c:158:5:main	24	static
