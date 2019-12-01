@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+  <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <launchConfiguration type="com.crt.dsfdebug.crtmcu.launchType">
 <stringAttribute key=".gdbinit" value=""/>
 <booleanAttribute key="attach" value="false"/>
@@ -17,7 +17,7 @@
 <stringAttribute key="com.nxp.mcuxpresso.flash.executable" value="axf"/>
 <stringAttribute key="com.nxp.mcuxpresso.flash.program.action" value="Program"/>
 <booleanAttribute key="com.nxp.mcuxpresso.flash.reset.target" value="true"/>
-<stringAttribute key="com.nxp.mcuxpresso.ide.probe.manufacturer" value="NXP Semiconductors"/>
+  <stringAttribute key="com.nxp.mcuxpresso.ide.probe.manufacturer" value="NXP Semiconductors"/>
 <stringAttribute key="com.nxp.mcuxpresso.ide.probe.name" value="LPC11U3x CMSIS-DAP v1.0.4"/>
 <stringAttribute key="com.nxp.mcuxpresso.ide.probe.type" value="LinkServer"/>
 <stringAttribute key="debug.level" value="2"/>
@@ -31,7 +31,7 @@
 <stringAttribute key="internal.semihost" value="On"/>
 <stringAttribute key="internal.wirespeed" value=""/>
 <stringAttribute key="internal.wiretype" value="SWD*,JTAG"/>
-<stringAttribute key="launch.config.handler" value="com.crt.ctrlcenter.launch.CRTLaunchConfigHandler"/>
+  <stringAttribute key="launch.config.handler" value="com.crt.ctrlcenter.launch.CRTLaunchConfigHandler"/>
 <booleanAttribute key="mem.access" value="false"/>
 <stringAttribute key="misc.options" value=""/>
 <stringAttribute key="ondisconnect" value="cont"/>
