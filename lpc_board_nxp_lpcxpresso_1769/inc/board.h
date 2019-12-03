@@ -1,6 +1,5 @@
 /*
- * @brief NXP LPC1769 XPresso board file
- *
+     c *
  * @note
  * Copyright(C) NXP Semiconductors, 2012
  * All rights reserved.
