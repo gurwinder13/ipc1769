@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?                  xml version="1.0" encoding="UTF-8" standalone="no"?>
 <project>
 	<configuration id="com.crt.advproject.config.lib.debug.267437161" name="Debug">
 		<extension point="org.eclipse.cdt.core.LanguageSettingsProvider">
