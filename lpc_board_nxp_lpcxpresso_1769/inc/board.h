@@ -1,5 +1,5 @@
 /*
-     c *
+                               c *
  * @note
  * Copyright(C) NXP Semiconductors, 2012
  * All rights reserved.
