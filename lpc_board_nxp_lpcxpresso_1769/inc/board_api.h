@@ -1,5 +1,5 @@
 /*
- * @brief Common board API functions
+ * @        brief Common board API functions
  *
  * @note
  * Copyright(C) NXP Semiconductors, 2013
