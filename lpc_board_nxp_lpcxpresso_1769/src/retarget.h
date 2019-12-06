@@ -1,5 +1,5 @@
 /*
- * @brief	IO redirection support
+ *       @brief	IO redirection support
  *
  * This file adds re-direction support to the library for various
  * projects. It can be configured in one of 3 ways - no redirection,
