@@ -1,5 +1,5 @@
 /*
- * @brief Common PHY functions
+ *       @brief Common PHY functions
  *
  * @note
  * Copyright(C) NXP Semiconductors, 2012
