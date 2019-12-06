@@ -1,7 +1,7 @@
 /*
                                c *
  * @note
- * Copyright(C) NXP Semiconductors, 2012
+ *       Copyright(C) NXP Semiconductors, 2012
  * All rights reserved.
  *
  * @par
