@@ -1,7 +1,7 @@
 /*
  * GENERATED FILE - DO NOT EDIT
  * Copyright (c) 2008-2013 Code Red Technologies Ltd,
- * Copyright 2015, 2018-2019 NXP
+ * Copyri     ght 2015, 2018-2019 NXP
  * (c) NXP Semiconductors 2013-2019
  * Generated linker script file for LPC1769
  * Created from linkscript.ldt by FMCreateLinkLibraries
