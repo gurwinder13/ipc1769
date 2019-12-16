@@ -4,7 +4,7 @@
  * Copyright 2015, 2018-2019 NXP
  * (c) NXP Semiconductors 2013-2019
  * Generated linker script file for LPC1769
- * Created from library.ldt by FMCreateLinkLibraries
+ * Created from library.ldt b    y FMCreateLinkLibraries
  * Using Freemarker v2.3.23
  * MCUXpresso IDE v11.0.1 [Build 2563] [2019-09-01] on 22-Oct-2019 10:41:27 PM
  */
