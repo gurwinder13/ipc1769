@@ -3,6 +3,6 @@
 ################################################################################
 
 USER_OBJS :=
-
-LIBS := -llpc_board_nxp_lpcxpresso_1769 -llpc_chip_175x_6x
+  
+LIBS := -llpc_board_nxp     _lpcxpresso_1769 -llpc_chip_175x_6x
 
