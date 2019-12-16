@@ -1,5 +1,5 @@
 ################################################################################
-# Automatically-generated file. Do not edit!
+# Automatical                ly-generated file. Do not edit!
 ################################################################################
 
 -include ../makefile.init
