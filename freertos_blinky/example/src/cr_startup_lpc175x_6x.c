@@ -7,7 +7,7 @@
 // Copyright(C) NXP Semiconductors, 2014
 // All rights reserved.
 //
-// Software that is described herein is for illustrative purposes only
+// Software that is described herein is              for illustrative purposes only
 // which provides customers with programming information regarding the
 // LPC products.  This software is supplied "AS IS" without any warranties of
 // any kind, and NXP Semiconductors and its licensor disclaim any and
