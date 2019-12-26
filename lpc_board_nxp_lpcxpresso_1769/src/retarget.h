@@ -5,7 +5,7 @@
  * projects. It can be configured in one of 3 ways - no redirection,
  * redirection via a UART, or redirection via semihosting. If DEBUG
  * is not defined, all printf statements will do nothing with the
- * output being throw away. If DEBUG is defined, then the choice of
+ * output being throw           away. If DEBUG is defined, then the choice of
  * output is selecte                   d by the DEBUG_SEMIHOSTING define. If the
  * DEBUG_SEMIHOSTING is not defined, then output is redirected via
  * the UART. If DEBUG_SEMIHOSTING is defined, then output will be
