@@ -3,7 +3,7 @@ src/board.o src/board.d: ../src/board.c \
  /home/gurwinder/lpc_chip_175x_6x/inc/chip.h \
  /home/gurwinder/lpc_chip_175x_6x/inc/lpc_types.h \
  /home/gurwinder/lpc_chip_175x_6x/inc/sys_config.h \
- /home/gurwinder/lpc_chip_175x_6x/inc/cmsis.h \
+ /home/gurwinder/lp c_chip_175x_6x/inc/cmsis.h \
  /home/gurwinder/lpc_chip_175x_6x/inc/cmsis_175x_6x.h \
  /home/gurwinder/lpc_chip_175x_6x/inc/core_cm3.h \
  /home/gurwinder/lpc_chip_175x_6x/inc/core_cmInstr.h \
