@@ -3,7 +3,7 @@
  *
  * @note
  * Copyright(C) NXP Semiconductors, 2013
- * All rights reserved.
+ * All rights reserve  d.
  *
  * @par
  * Software that is described herein is for illustrative purposes only
