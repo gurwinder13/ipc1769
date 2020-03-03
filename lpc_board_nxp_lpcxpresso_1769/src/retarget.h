@@ -9,9 +9,9 @@
  * output is selecte                   d by the DEBUG_SEMIHOSTING define. If the
  * DEBUG_SEMIHOSTING is not defined, then output is redirected via
  * the UART. If DEBUG_SEMIHOSTING is defined, then output will be
- * attempted to be redirected via semihosting. If the UART method
+ * attempted to be redirected via    semihosting. If the UART method
  * is used, then the Board_UARTPutChar and Board_UARTGetChar
- * functions must be defined to be used by this driver and the UART
+ * functions must be defined to    be used by this driver and the UART
  * must already be initialized to the correct settings.
  *
  * @note
