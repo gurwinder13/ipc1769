@@ -13,12 +13,12 @@
  * all warranties, express or implied, including all implied warranties of
  * merchantability, fitness for a particular purpose and non-infringement of
  * intellectual property rights.  NXP Semiconductors assumes no responsibility
- * or liability for the use of the software, conveys no license or rights under any
+ * or liability for the use of the    software, conveys no license or rights under any
  * patent, copyright, mask work right, or any other intellectual property rights in
  * or to any products. NXP Semiconductors reserves the right to make changes
  * in the software without notification. NXP Semiconductors also makes no
- * representation or warranty that such application will be suitable for the
- * specified use without further testing or modification.
+ * representation or warranty    that such application will be suitable for the
+ * specified use without further testing or m   odification.
  *
  * @par
  * Permission to use, copy, modify, and distribute this software and its
