@@ -1,8 +1,8 @@
   <?xml version="1.0" encoding="UTF-8"?>
 <projec   tDescription>
 	<name>freertos_blinky</name>
-	<         comment></comment>
-	<projects>
+	<         comment></comme  nt>
+	<projects>      
 		<project>lpc_chip_175x_6x</project>
 		<project>lpc_board_nxp_lpcxpresso_1769</project>
 	</projects>
