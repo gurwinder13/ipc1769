@@ -8,7 +8,7 @@
  * Software that is described herein is for illustrative purposes only
  * which provides customers with programming information regarding the
  * LPC products.  This software is supplied "AS IS" without any warranties of
- * any kin   d, and NXP Semiconductors and its  licensor disclaim any and
+ * any kin   d, and NXP Semiconductors and itscvcvvvv  licensor disclaim any and
  * all warranties, express or implied, including all implied warranties of
  * merchantability, fitness for a particular purpose and non-infringement of
  * intellectual property rights.  NXP Semiconductors assumes no responsibility
